@@ -6,4 +6,4 @@
 联系方式：QQ 996870726
           邮箱chengzhi2101@126.com
           
-本存储库使用开发工具为vscode + clang或visual studio C++ 2019，如果使用其他工具只是对代码进行少部分修改即可，主干相同。
+本库使用开发工具为vscode + clang或visual studio C++ 2019，如果使用其他工具只是对代码进行少部分修改即可，主干相同。
